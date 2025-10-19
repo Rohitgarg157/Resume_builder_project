@@ -4,8 +4,7 @@
 
 **Project Name:** Resume Builder  
 **Version:** 1.0.0  
-**Date:** October 2024  
-**Designer:** Resume Builder Team  
+
 
 A comprehensive UI/UX design specification for a modern resume building application built with React.js, Node.js, and MySQL.
 
@@ -556,6 +555,4 @@ A comprehensive UI/UX design specification for a modern resume building applicat
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** October 2024  
-**Next Review:** November 2024
+
